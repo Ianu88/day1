@@ -1,0 +1,15 @@
+* {
+    background-color: antiquewhite;
+}
+* {
+    box-sizing: border-box;
+    padding: 50,75,50,75;
+    }
+@import url(https://fonts.googleapis.com/css?family=Roboto+Chareink:400,500);
+h1, subh {font-family:monospace;}
+p, li {font-family:sans-serif;}
+
+.books{
+display: flex;
+flex-direction: row
+}
